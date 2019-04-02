@@ -14,7 +14,7 @@
 
     - attatched is a folder of images and animated instructions for you to follow along with
     - they are located in the Bamazon instuctions folder
-    - here ---- ----
+    - here ---- https://github.com/Anthonyme0328/Bamazon/tree/master/Bamazon%20instructions ----
 
 **tech used**
 
