@@ -12,6 +12,10 @@
 
 **instructions**
 
+    -Usage instructions
+        - step by step how to use instructions have been included in the form of pictures and animated slides
+        - these are located in the Bamazon instructions folder
+
     - Cloning the repo
         - go to https://github.com/Anthonyme0328/Bamazon
         - click on clone or download and copy to clipboard
