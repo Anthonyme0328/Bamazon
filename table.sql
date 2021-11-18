@@ -1,6 +1,6 @@
 CREATE database bamazonAME;
 
-USE bamazonAME;
+USE bamazonAME;  
 
 CREATE TABLE products (
   id INT(10) AUTO_INCREMENT NOT NULL,
